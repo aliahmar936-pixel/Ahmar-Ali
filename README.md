@@ -1,76 +1,121 @@
-# Hi, I'm Ahmar Ali 👋
+# Hi there, I'm Ahmar Ali! 👋
 
-## Aspiring Data Analyst | Data Science Student | Future AI & Machine Learning Engineer
+## Aspiring Data Scientist | BS Statistics Student
 
-Welcome to my GitHub!
+I'm a BS Statistics student at **Quaid-i-Azam University, Islamabad**, passionate about transforming data into meaningful insights through statistics, analytics, visualization, and machine learning.
 
-I'm a Data Science student from Pakistan with a passion for turning raw data into meaningful insights. I'm currently building a strong portfolio in Data Analytics, Data Science, Artificial Intelligence, and Machine Learning by working on real-world projects and sharing my learning journey publicly.
+Currently, I'm building practical projects to strengthen my expertise in Data Science, Business Intelligence, and Predictive Analytics.
 
-## 🚀 Current Skills
 
-- Microsoft Excel
-- R Programming
-- Exploratory Data Analysis (EDA)
-- Data Visualization
-- Git & GitHub
+## 🚀 About Me
 
-## 📚 Currently Learning
+- 🎓 BS Statistics @ Quaid-i-Azam University
+- 📊 Passionate about Data Analytics & Machine Learning
+- 📈 Building real-world portfolio projects
+- 🌱 Currently learning advanced Machine Learning and Data Science
+- 🎯 Goal: Become a professional Data Scientist
 
-- SQL
-- Power BI
+
+## 💻 Technical Skills
+
+### Programming
+
 - Python
-- Machine Learning
-- Artificial Intelligence
-- Data Engineering Fundamentals
+- SQL
 
-## 📂 Featured Projects
+### Data Analytics
 
-### 📊 Global Superstore Sales Dashboard
-Interactive Microsoft Excel dashboard featuring KPI Cards, Pivot Tables, Pivot Charts, and Slicers for business reporting.
+- Pandas
+- NumPy
+- Statistics
+- Exploratory Data Analysis (EDA)
 
-### 📈 TikTok Influencers 2022 EDA
-Exploratory Data Analysis using R to discover trends and insights from influencer data.
+### Data Visualization
 
-More projects are coming soon as I continue my learning journey.
+- Excel
+- Power BI
+- Tableau
+- Matplotlib
+- Seaborn
 
-## 🎯 My Goal
+### Machine Learning
 
-By consistently learning and building projects, I'm working toward becoming a professional Data Analyst and eventually specializing in Artificial Intelligence and Machine Learning.
+- Scikit-learn
+- Linear Regression
+- Model Evaluation
 
-## 🛠️ Tech Stack
+### Tools
 
-- Microsoft Excel
-- R
 - Git
 - GitHub
+- Jupyter Notebook
+- VS Code
+- MySQL
 
-(Currently expanding into SQL, Power BI, Python, and Machine Learning.)
 
-## 🌱 2026 Roadmap
+# 📂 Featured Projects
 
-✅ Exploratory Data Analysis (R)
+## 📊 Data Science Portfolio
 
-✅ Excel Dashboards
+A central repository showcasing all my Data Analytics, Statistics, Business Intelligence, and Machine Learning projects.
 
-🔄 SQL
+🔗 Repository:
+(https://github.com/aliahmar936-pixel/Data-Science-Portfolio)
 
-🔄 Power BI
 
-🔄 Python for Data Analysis
+## 🤖 Machine Learning House Price Prediction
 
-🔄 Machine Learning
+End-to-end Machine Learning project using Linear Regression with Python and Scikit-learn.
 
-🔄 Artificial Intelligence
 
-## 🤝 Let's Connect
+## 📈 Power BI Sales Dashboard
 
-💼 LinkedIn:
-(https://www.linkedin.com/in/ahmar-ali-329438356?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+Interactive dashboard for business performance analysis.
 
-💻 Fiverr:
-(https://www.fiverr.com/users/analyticalink)
 
-📂 GitHub:
-(https://github.com/aliahmar936-pixel)
+## 🗄️ SQL E-Commerce Sales Analysis
 
-Thanks for visiting my profile! Feel free to explore my repositories and follow my journey as I build real-world data analytics and AI projects.
+Business insights generated using SQL queries.
+
+
+## 📊 Excel Dashboard
+
+Interactive Excel dashboard using Pivot Tables, KPIs, and Charts.
+
+
+## 🐍 Python E-Commerce Sales Analysis
+
+Sales analysis using Python, Pandas, NumPy, and Matplotlib.
+
+
+## 📊 Tableau Sales Dashboard
+
+Interactive Tableau dashboard for sales visualization.
+
+
+## 📐 Statistics for Data Science
+
+Applied hypothesis testing, confidence intervals, probability distributions, and statistical inference using Python.
+
+
+# 📈 GitHub Stats
+
+> *(Enable GitHub Readme Stats after this section if you wish.)*
+
+
+# 📫 Connect With Me
+
+### LinkedIn
+
+https://www.linkedin.com/in/ahmar-ali936
+
+### GitHub
+
+https://github.com/aliahmar936-pixel
+
+## Fiverr
+
+https://www.fiverr.com/users/analyticalink/
+
+
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
